@@ -1,5 +1,8 @@
 # Ansible Role: Git
 
+## ++I forked this repo because it was failing for me due to my inexperience with Ansible.  --jimoconnell++
+
+
 [![Build Status](https://travis-ci.org/geerlingguy/ansible-role-git.svg?branch=master)](https://travis-ci.org/geerlingguy/ansible-role-git)
 
 Installs Git, a distributed version control system, on any RHEL/CentOS or Debian/Ubuntu Linux system.
